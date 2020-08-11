@@ -14,3 +14,6 @@
  Segment out the red colored cloth by generating a mask.
  
  Generate the final augmented output to create the magical effect.
+
+
+![invisible](https://user-images.githubusercontent.com/69042882/89951634-65640b00-dc49-11ea-9cca-b96eda7e3c3e.gif)
